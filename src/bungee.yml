@@ -1,0 +1,6 @@
+name: Api
+main: fr.first92.bungeeapi.BungeeApi
+version: ALPHA
+author: First92
+depends:
+  - Sync
